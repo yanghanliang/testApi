@@ -1,0 +1,17 @@
+{
+  "/goods/*": "/goods.$1",
+  "/cart/*": "/cart.$1",
+  "/soso/*": "/soso.$1",
+  "/order/*": "/order.$1",
+  "/sys/*": "/sys.$1",
+  "/wxpay/*": "/wxpay.$1",
+  "/person/*": "/person.$1",
+  "/user/*": "/user.$1",
+  "/collect/*": "/collect.$1",
+  "/member/*": "/member.$1",
+  "/memberCoupon/*": "/memberCoupon.$1",
+  "/activeity/*": "/activeity.$1",
+  "/memberPrivilege/*": "/memberPrivilege.$1",
+  "/takeGoods/*": "/takeGoods.$1",
+  "/secKill/*": "/secKill.$1"
+}

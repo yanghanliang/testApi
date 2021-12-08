@@ -1,0 +1,1530 @@
+{
+  "goods.getList": {
+    "code": "00000",
+    "msg": "",
+    "data": {
+      "totalPage": "",
+      "totalSize": 200,
+      "goodsList": [
+        {
+          "id": 1,
+          "name": "迪奥烈焰唇膏",
+          "picUrl": "https://img13.360buyimg.com/babel/s290x370_jfs/t1/163303/19/8612/240967/603f2afdE54fac7e9/6270a3dfba2f1847.jpg!cc_290x370.webp",
+          "sellCount": 100,
+          "isNew": 1,
+          "price": 10.012,
+          "linePrice": 12.999,
+          "groupCount": 3,
+          "joinGroup": 0,
+          "newShelf": 1,
+          "type": 7,
+          "integralGoods": 0,
+          "integralObj": null,
+          "preCount": 200
+        },
+        {
+          "id": 1,
+          "name": "迪奥烈焰唇膏",
+          "picUrl": "https://img13.360buyimg.com/babel/s290x370_jfs/t1/163303/19/8612/240967/603f2afdE54fac7e9/6270a3dfba2f1847.jpg!cc_290x370.webp",
+          "sellCount": 50,
+          "isNew": 1,
+          "price": 10.012,
+          "linePrice": 12.999,
+          "groupCount": 0,
+          "joinGroup": 1,
+          "newShelf": 1,
+          "type": 6,
+          "integralGoods": 1,
+          "integralObj": {
+            "payMethod": 1,
+            "cash": 100,
+            "familyCoin": 200,
+            "integral": 0
+          },
+          "preCount": 20
+        },
+        {
+          "id": 1,
+          "name": "迪奥烈焰唇膏",
+          "picUrl": "https://img13.360buyimg.com/babel/s290x370_jfs/t1/163303/19/8612/240967/603f2afdE54fac7e9/6270a3dfba2f1847.jpg!cc_290x370.webp",
+          "sellCount": 30,
+          "isNew": 1,
+          "price": 10.012,
+          "linePrice": 12.999,
+          "groupCount": 3,
+          "joinGroup": 1,
+          "newShelf": 1,
+          "type": 1,
+          "integralGoods": 1,
+          "integralObj": {
+            "payMethod": 1,
+            "cash": 100,
+            "familyCoin": 200,
+            "integral": 500
+          },
+          "preCount": 20
+        },
+        {
+          "id": 1,
+          "name": "迪奥烈焰唇膏",
+          "picUrl": "https://img13.360buyimg.com/babel/s290x370_jfs/t1/163303/19/8612/240967/603f2afdE54fac7e9/6270a3dfba2f1847.jpg!cc_290x370.webp",
+          "sellCount": 10,
+          "isNew": 1,
+          "price": 10.012,
+          "linePrice": 12.999,
+          "groupCount": 3,
+          "joinGroup": 1,
+          "newShelf": 1,
+          "type": 1,
+          "integralGoods": 1,
+          "integralObj": {
+            "payMethod": 1,
+            "cash": 100,
+            "familyCoin": 200,
+            "integral": 500
+          },
+          "preCount": 20
+        },
+        {
+          "id": 1,
+          "name": "迪奥烈焰唇膏",
+          "picUrl": "https://img13.360buyimg.com/babel/s290x370_jfs/t1/163303/19/8612/240967/603f2afdE54fac7e9/6270a3dfba2f1847.jpg!cc_290x370.webp",
+          "sellCount": 100,
+          "isNew": 1,
+          "price": 10.012,
+          "linePrice": 12.999,
+          "groupCount": 3,
+          "joinGroup": 1,
+          "newShelf": 1,
+          "type": 1,
+          "integralGoods": 1,
+          "integralObj": {
+            "payMethod": 1,
+            "cash": 100,
+            "familyCoin": 200,
+            "integral": 500
+          },
+          "preCount": 20
+        },
+        {
+          "id": 1,
+          "name": "迪奥烈焰唇膏",
+          "picUrl": "https://img13.360buyimg.com/babel/s290x370_jfs/t1/163303/19/8612/240967/603f2afdE54fac7e9/6270a3dfba2f1847.jpg!cc_290x370.webp",
+          "sellCount": 100,
+          "isNew": 1,
+          "price": 10.012,
+          "linePrice": 12.999,
+          "groupCount": 3,
+          "joinGroup": 1,
+          "newShelf": 1,
+          "type": 1,
+          "integralGoods": 1,
+          "integralObj": {
+            "payMethod": 1,
+            "cash": 100,
+            "familyCoin": 200,
+            "integral": 500
+          },
+          "preCount": 20
+        },
+        {
+          "id": 1,
+          "name": "迪奥烈焰唇膏",
+          "picUrl": "https://img13.360buyimg.com/babel/s290x370_jfs/t1/163303/19/8612/240967/603f2afdE54fac7e9/6270a3dfba2f1847.jpg!cc_290x370.webp",
+          "sellCount": 100,
+          "isNew": 1,
+          "price": 10.012,
+          "linePrice": 12.999,
+          "groupCount": 3,
+          "joinGroup": 1,
+          "newShelf": 1,
+          "type": 1,
+          "integralGoods": 1,
+          "integralObj": {
+            "payMethod": 1,
+            "cash": 100,
+            "familyCoin": 200,
+            "integral": 500
+          },
+          "preCount": 20
+        },
+        {
+          "id": 1,
+          "name": "迪奥烈焰唇膏",
+          "picUrl": "https://img13.360buyimg.com/babel/s290x370_jfs/t1/163303/19/8612/240967/603f2afdE54fac7e9/6270a3dfba2f1847.jpg!cc_290x370.webp",
+          "sellCount": 100,
+          "isNew": 1,
+          "price": 10.012,
+          "linePrice": 12.999,
+          "groupCount": 3,
+          "joinGroup": 1,
+          "newShelf": 1,
+          "type": 1,
+          "integralGoods": 1,
+          "integralObj": {
+            "payMethod": 1,
+            "cash": 100,
+            "familyCoin": 200,
+            "integral": 500
+          },
+          "preCount": 20
+        },
+        {
+          "id": 1,
+          "name": "迪奥烈焰唇膏",
+          "picUrl": "https://img13.360buyimg.com/babel/s290x370_jfs/t1/163303/19/8612/240967/603f2afdE54fac7e9/6270a3dfba2f1847.jpg!cc_290x370.webp",
+          "sellCount": 100,
+          "isNew": 1,
+          "price": 10.012,
+          "linePrice": 12.999,
+          "groupCount": 3,
+          "joinGroup": 1,
+          "newShelf": 1,
+          "type": 1,
+          "integralGoods": 1,
+          "integralObj": {
+            "payMethod": 1,
+            "cash": 100,
+            "familyCoin": 200,
+            "integral": 500
+          },
+          "preCount": 20
+        }
+      ]
+    }
+  },
+  "goods.category": {
+    "code": "00000",
+    "msg": "",
+    "data": [
+      {
+        "id": 1,
+        "name": "食品酒水",
+        "tenantId": "",
+        "orgId": "",
+        "code": "",
+        "parentId": 0,
+        "orderNum": ""
+      },
+      {
+        "id": 2,
+        "name": "食品酒水-a",
+        "tenantId": "",
+        "orgId": "",
+        "code": "",
+        "parentId": 1,
+        "orderNum": ""
+      },
+      {
+        "id": 3,
+        "name": "食品酒水-b",
+        "tenantId": "",
+        "orgId": "",
+        "code": "",
+        "parentId": 1,
+        "orderNum": ""
+      },
+      {
+        "id": 4,
+        "name": "生鲜蔬果",
+        "tenantId": "",
+        "orgId": "",
+        "code": "",
+        "parentId": 0,
+        "orderNum": ""
+      },
+      {
+        "id": 5,
+        "name": "生鲜蔬果-a",
+        "tenantId": "",
+        "orgId": "",
+        "code": "",
+        "parentId": 4,
+        "orderNum": ""
+      },
+      {
+        "id": 6,
+        "name": "美妆护肤",
+        "tenantId": "",
+        "orgId": "",
+        "code": "",
+        "parentId": 0,
+        "orderNum": ""
+      },
+      {
+        "id": 7,
+        "name": "美妆护肤-a",
+        "tenantId": "",
+        "orgId": "",
+        "code": "",
+        "parentId": 6,
+        "orderNum": ""
+      },
+      {
+        "id": 30,
+        "name": "美妆护肤-b",
+        "tenantId": "",
+        "orgId": "",
+        "code": "",
+        "parentId": 6,
+        "orderNum": ""
+      },
+      {
+        "id": 31,
+        "name": "美妆护肤-c",
+        "tenantId": "",
+        "orgId": "",
+        "code": "",
+        "parentId": 6,
+        "orderNum": ""
+      },
+      {
+        "id": 8,
+        "name": "个护清洁",
+        "tenantId": "",
+        "orgId": "",
+        "code": "",
+        "parentId": 0,
+        "orderNum": ""
+      },
+      {
+        "id": 9,
+        "name": "个护清洁-a",
+        "tenantId": "",
+        "orgId": "",
+        "code": "",
+        "parentId": 8,
+        "orderNum": ""
+      },
+      {
+        "id": 10,
+        "name": "精品男装",
+        "tenantId": "",
+        "orgId": "",
+        "code": "",
+        "parentId": 0,
+        "orderNum": ""
+      },
+      {
+        "id": 11,
+        "name": "精品男装-a",
+        "tenantId": "",
+        "orgId": "",
+        "code": "",
+        "parentId": 10,
+        "orderNum": ""
+      },
+      {
+        "id": 12,
+        "name": "精品女装",
+        "tenantId": "",
+        "orgId": "",
+        "code": "",
+        "parentId": 0,
+        "orderNum": ""
+      },
+      {
+        "id": 13,
+        "name": "精品女装-a",
+        "tenantId": "",
+        "orgId": "",
+        "code": "",
+        "parentId": 12,
+        "orderNum": ""
+      }
+    ]
+  },
+  "goods.getDetails": {
+    "code": "00000",
+    "data": {
+      "ngoing": 1,
+      "todayCanJoin": 1,
+      "aloneBuy": 1,
+      "goodInfo": {
+        "id": 1,
+        "actId": 1,
+        "name": "TFIT水乳套装护肤品旗舰店",
+        "title": "水乳两件套",
+        "sellCount": 20,
+        "isNew": 1,
+        "stockCount": 1000,
+        "price": 200,
+        "linePrice": 400,
+        "groupCount": 20,
+        "joinGroup": 10,
+        "newShelf": 5,
+        "type": 7,
+        "integralGoods": 1,
+        "commentCount": 200,
+        "integralObj": {
+          "payMethod": 1,
+          "cash": 100,
+          "familyCoin": 300,
+          "integral": 100
+        },
+        "returnRule": "XX商品一件； <br />880积分； <br /> 24期返还880元，每期返36元",
+        "picList": [
+          "https://img13.360buyimg.com/babel/s290x370_jfs/t1/163303/19/8612/240967/603f2afdE54fac7e9/6270a3dfba2f1847.jpg!cc_290x370.webp",
+          "https://img13.360buyimg.com/babel/s290x370_jfs/t1/163303/19/8612/240967/603f2afdE54fac7e9/6270a3dfba2f1847.jpg!cc_290x370.webp",
+          "https://img13.360buyimg.com/babel/s290x370_jfs/t1/163303/19/8612/240967/603f2afdE54fac7e9/6270a3dfba2f1847.jpg!cc_290x370.webp"
+        ],
+        "vodList": [
+          "https://img.cdn.aliyun.dcloud.net.cn/guide/uniapp/%E7%AC%AC1%E8%AE%B2%EF%BC%88uni-app%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D%EF%BC%89-%20DCloud%E5%AE%98%E6%96%B9%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B@20200317.mp4"
+        ],
+        "detailsPic": [
+          "https://img2.baidu.com/it/u=3311066933,414542073&fm=26&fmt=auto&gp=0.jpg",
+          "https://img1.baidu.com/it/u=3666812693,2769443349&fm=26&fmt=auto&gp=0.jpg",
+          "https://img2.baidu.com/it/u=610265344,1518020857&fm=26&fmt=auto&gp=0.jpg"
+        ],
+        "groupList": [
+          {
+            "groupId": 1,
+            "startTime": "2021-07-31 10:30:30",
+            "endTime": "2021-07-31 10:31:30",
+            "lackCount": 10,
+            "userIcon": [
+              "https://img0.baidu.com/it/u=2135557883,423992380&fm=26&fmt=auto&gp=0.jpg",
+              "https://img2.baidu.com/it/u=1325995315,4158780794&fm=26&fmt=auto&gp=0.jpg",
+              "https://img2.baidu.com/it/u=325567737,3478266281&fm=26&fmt=auto&gp=0.jpg",
+              "https://img1.baidu.com/it/u=1541636380,2661844494&fm=26&fmt=auto&gp=0.jpg"
+            ]
+          },
+          {
+            "groupId": 1,
+            "startTime": "2021-07-31 10:30:30",
+            "endTime": "2021-07-31 11:30:30",
+            "lackCount": 5,
+            "userIcon": [
+              "https://img0.baidu.com/it/u=2135557883,423992380&fm=26&fmt=auto&gp=0.jpg",
+              "https://img2.baidu.com/it/u=1325995315,4158780794&fm=26&fmt=auto&gp=0.jpg",
+              "https://img2.baidu.com/it/u=325567737,3478266281&fm=26&fmt=auto&gp=0.jpg"
+            ]
+          },
+          {
+            "groupId": 1,
+            "startTime": "2021-07-31 10:30:30",
+            "endTime": "2021-08-01 10:30:30",
+            "lackCount": 2,
+            "userIcon": [
+              "https://img0.baidu.com/it/u=2135557883,423992380&fm=26&fmt=auto&gp=0.jpg"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "goods.getSecKillDetails": {
+    "code": "00000",
+    "data": {
+      "ngoing": 1,
+      "todayCanJoin": 1,
+      "aloneBuy": 1,
+      "goodInfo": {
+        "id": 1,
+        "actId": 1,
+        "name": "TFIT水乳套装护肤品旗舰店",
+        "title": "水乳两件套",
+        "sellCount": 20,
+        "isNew": 1,
+        "stockCount": 1000,
+        "price": 200,
+        "linePrice": 400,
+        "groupCount": 20,
+        "joinGroup": 10,
+        "newShelf": 5,
+        "type": 7,
+        "integralGoods": 1,
+        "commentCount": 200,
+        "secKillPrice": 3000,
+        "integralObj": {
+          "payMethod": 1,
+          "cash": 100,
+          "familyCoin": 300,
+          "integral": 100
+        },
+        "startTime": "2021-11-03 10:30:30",
+        "endTime": "2021-11-30 20:30:30",
+        "returnRule": "XX商品一件； <br />880积分； <br /> 24期返还880元，每期返36元",
+        "picList": [
+          "https://img13.360buyimg.com/babel/s290x370_jfs/t1/163303/19/8612/240967/603f2afdE54fac7e9/6270a3dfba2f1847.jpg!cc_290x370.webp",
+          "https://img13.360buyimg.com/babel/s290x370_jfs/t1/163303/19/8612/240967/603f2afdE54fac7e9/6270a3dfba2f1847.jpg!cc_290x370.webp",
+          "https://img13.360buyimg.com/babel/s290x370_jfs/t1/163303/19/8612/240967/603f2afdE54fac7e9/6270a3dfba2f1847.jpg!cc_290x370.webp"
+        ],
+        "vodList": [
+          "https://img.cdn.aliyun.dcloud.net.cn/guide/uniapp/%E7%AC%AC1%E8%AE%B2%EF%BC%88uni-app%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D%EF%BC%89-%20DCloud%E5%AE%98%E6%96%B9%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B@20200317.mp4"
+        ],
+        "detailsPic": [
+          "https://img2.baidu.com/it/u=3311066933,414542073&fm=26&fmt=auto&gp=0.jpg",
+          "https://img1.baidu.com/it/u=3666812693,2769443349&fm=26&fmt=auto&gp=0.jpg",
+          "https://img2.baidu.com/it/u=610265344,1518020857&fm=26&fmt=auto&gp=0.jpg"
+        ],
+        "groupList": [
+          {
+            "groupId": 1,
+            "startTime": "2021-07-31 10:30:30",
+            "endTime": "2021-07-31 10:31:30",
+            "lackCount": 10,
+            "userIcon": [
+              "https://img0.baidu.com/it/u=2135557883,423992380&fm=26&fmt=auto&gp=0.jpg",
+              "https://img2.baidu.com/it/u=1325995315,4158780794&fm=26&fmt=auto&gp=0.jpg",
+              "https://img2.baidu.com/it/u=325567737,3478266281&fm=26&fmt=auto&gp=0.jpg",
+              "https://img1.baidu.com/it/u=1541636380,2661844494&fm=26&fmt=auto&gp=0.jpg"
+            ]
+          },
+          {
+            "groupId": 1,
+            "startTime": "2021-07-31 10:30:30",
+            "endTime": "2021-07-31 11:30:30",
+            "lackCount": 5,
+            "userIcon": [
+              "https://img0.baidu.com/it/u=2135557883,423992380&fm=26&fmt=auto&gp=0.jpg",
+              "https://img2.baidu.com/it/u=1325995315,4158780794&fm=26&fmt=auto&gp=0.jpg",
+              "https://img2.baidu.com/it/u=325567737,3478266281&fm=26&fmt=auto&gp=0.jpg"
+            ]
+          },
+          {
+            "groupId": 1,
+            "startTime": "2021-07-31 10:30:30",
+            "endTime": "2021-08-01 10:30:30",
+            "lackCount": 2,
+            "userIcon": [
+              "https://img0.baidu.com/it/u=2135557883,423992380&fm=26&fmt=auto&gp=0.jpg"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "goods.commentList": {
+    "code": "00000",
+    "data": {
+      "totalSize": 30,
+      "result": [
+        {
+          "userId": 1,
+          "userName": "张老三",
+          "userIcon": "https://img0.baidu.com/it/u=2135557883,423992380&fm=26&fmt=auto&gp=0.jpg",
+          "commentTime": "2021-07-31 14:42:33",
+          "commentText": "你吃了啊？",
+          "commentFile": [
+            "https://img13.360buyimg.com/babel/s290x370_jfs/t1/163303/19/8612/240967/603f2afdE54fac7e9/6270a3dfba2f1847.jpg!cc_290x370.webp",
+            "https://img13.360buyimg.com/babel/s290x370_jfs/t1/163303/19/8612/240967/603f2afdE54fac7e9/6270a3dfba2f1847.jpg!cc_290x370.webp"
+          ],
+          "replyTime": "2021-07-31 14:42:33",
+          "replyText": "吃了的"
+        },
+        {
+          "userId": 1,
+          "userName": "张老三",
+          "userIcon": "https://img0.baidu.com/it/u=2135557883,423992380&fm=26&fmt=auto&gp=0.jpg",
+          "commentTime": "2021-07-31 14:42:33",
+          "commentText": "物流特别快，商品很好，客服也很有耐心的解答问题，以后会经常来。",
+          "commentFile": [
+            "https://img13.360buyimg.com/babel/s290x370_jfs/t1/163303/19/8612/240967/603f2afdE54fac7e9/6270a3dfba2f1847.jpg!cc_290x370.webp",
+            "https://img13.360buyimg.com/babel/s290x370_jfs/t1/163303/19/8612/240967/603f2afdE54fac7e9/6270a3dfba2f1847.jpg!cc_290x370.webp"
+          ],
+          "replyTime": "2021-07-31 14:42:33",
+          "replyText": "吃了的"
+        },
+        {
+          "userId": 1,
+          "userName": "张老三",
+          "userIcon": "https://img0.baidu.com/it/u=2135557883,423992380&fm=26&fmt=auto&gp=0.jpg",
+          "commentTime": "2021-07-31 14:42:33",
+          "commentText": "你吃了啊？",
+          "commentFile": [
+            "https://img13.360buyimg.com/babel/s290x370_jfs/t1/163303/19/8612/240967/603f2afdE54fac7e9/6270a3dfba2f1847.jpg!cc_290x370.webp",
+            "https://img13.360buyimg.com/babel/s290x370_jfs/t1/163303/19/8612/240967/603f2afdE54fac7e9/6270a3dfba2f1847.jpg!cc_290x370.webp"
+          ],
+          "replyTime": "2021-07-31 14:42:33",
+          "replyText": "吃了的"
+        }
+      ]
+    }
+  },
+  "goods.getTimeGroupTag": {
+    "code": "00000",
+    "data": [
+      {
+        "startTime": "2021-10-30 08:30:30",
+        "endTime": "2021-10-30 09:00:00"
+      },
+      {
+        "startTime": "2021-10-30 09:30:30",
+        "endTime": "2021-10-30 09:40:00"
+      },
+      {
+        "startTime": "2021-10-30 09:40:00",
+        "endTime": "2021-10-30 10:00:00"
+      },
+      {
+        "startTime": "2021-10-30 10:10:30",
+        "endTime": "2021-10-30 11:00:00"
+      },
+      {
+        "startTime": "2021-11-03 13:40:30",
+        "endTime": "2021-11-03 20:00:00"
+      },
+      {
+        "startTime": "2021-11-04 13:40:30",
+        "endTime": "2021-11-04 20:00:00"
+      },
+      {
+        "startTime": "2021-11-05 13:40:30",
+        "endTime": "2021-11-05 14:00:00"
+      },
+      {
+        "startTime": "2021-11-06 13:40:30",
+        "endTime": "2021-11-06 14:00:00"
+      },
+      {
+        "startTime": "2021-11-07 13:40:30",
+        "endTime": "2021-11-07 14:00:00"
+      },
+      {
+        "startTime": "2021-11-08 13:40:30",
+        "endTime": "2021-11-08 14:00:00"
+      },
+      {
+        "startTime": "2021-11-09 13:40:30",
+        "endTime": "2021-11-09 14:00:00"
+      },
+      {
+        "startTime": "2021-11-10 13:40:30",
+        "endTime": "2021-11-10 14:00:00"
+      },
+      {
+        "startTime": "2021-11-11 13:40:30",
+        "endTime": "2021-11-11 14:00:00"
+      },
+      {
+        "startTime": "2021-11-12 13:40:30",
+        "endTime": "2021-11-12 14:00:00"
+      },
+      {
+        "startTime": "2021-11-15 13:40:30",
+        "endTime": "2021-11-15 20:00:00"
+      },
+      {
+        "startTime": "2021-11-16 13:40:30",
+        "endTime": "2021-11-16 14:00:00"
+      },
+      {
+        "startTime": "2021-11-17 13:40:30",
+        "endTime": "2021-11-17 14:00:00"
+      },
+      {
+        "startTime": "2021-11-18 13:40:30",
+        "endTime": "2021-11-18 14:00:00"
+      },
+      {
+        "startTime": "2021-11-19 13:40:30",
+        "endTime": "2021-11-19 14:00:00"
+      },
+      {
+        "startTime": "2021-11-20 13:40:30",
+        "endTime": "2021-11-20 14:00:00"
+      },
+      {
+        "startTime": "2021-11-21 13:40:30",
+        "endTime": "2021-11-21 14:00:00"
+      },
+      {
+        "startTime": "2021-11-22 13:40:30",
+        "endTime": "2021-11-22 14:00:00"
+      }
+    ]
+  },
+  "cart.getlist": {
+    "code": "00000",
+    "data": [
+      {
+        "id": 1,
+        "goodId": 1,
+        "goodName": "曼秀雷敦男士控油抗痘护理液",
+        "qty": 20,
+        "price": 200,
+        "picUrl": "https://img13.360buyimg.com/babel/s290x370_jfs/t1/163303/19/8612/240967/603f2afdE54fac7e9/6270a3dfba2f1847.jpg!cc_290x370.webp",
+        "status": 1
+      },
+      {
+        "id": 2,
+        "goodId": 1,
+        "goodName": "曼秀雷敦男士控油抗痘护理液",
+        "qty": 20,
+        "price": 200,
+        "picUrl": "https://img13.360buyimg.com/babel/s290x370_jfs/t1/163303/19/8612/240967/603f2afdE54fac7e9/6270a3dfba2f1847.jpg!cc_290x370.webp",
+        "status": 1
+      },
+      {
+        "id": 3,
+        "goodId": 1,
+        "goodName": "曼秀雷敦男士控油抗痘护理液",
+        "qty": 20,
+        "price": 200,
+        "picUrl": "https://img13.360buyimg.com/babel/s290x370_jfs/t1/163303/19/8612/240967/603f2afdE54fac7e9/6270a3dfba2f1847.jpg!cc_290x370.webp",
+        "status": 0
+      }
+    ]
+  },
+  "cart.updCart": {
+    "code": "00000",
+    "cartId": 1,
+    "goodId": 1,
+    "qty": 22
+  },
+  "cart.delCart": {
+    "code": "00000",
+    "data": []
+  },
+  "cart.addCart": {
+    "code": "00000",
+    "qty": 1
+  },
+  "soso.getHistorySeach": {
+    "code": "00000",
+    "data": [
+      {
+        "type": 1,
+        "keyword": "迪奥烈焰口红"
+      },
+      {
+        "type": 2,
+        "keyword": "连衣裙"
+      },
+      {
+        "type": 3,
+        "keyword": "口红123口红45口红ab口红"
+      },
+      {
+        "type": 4,
+        "keyword": "蓝牙耳机"
+      },
+      {
+        "type": 4,
+        "keyword": "唇膏"
+      }
+    ]
+  },
+  "soso.keywordIndex": {
+    "code": "00000",
+    "data": [
+      {
+        "type": 1,
+        "keyword": "迪奥烈焰口红"
+      },
+      {
+        "type": 2,
+        "keyword": "口红小样"
+      },
+      {
+        "type": 3,
+        "keyword": "口红123口红45口红ab口红"
+      },
+      {
+        "type": 4,
+        "keyword": "蓝牙耳机"
+      },
+      {
+        "type": 4,
+        "keyword": "唇膏"
+      }
+    ]
+  },
+  "order.confirmOrder": {
+    "code": "00000",
+    "data": {
+      "delivery": [
+        {
+          "id": 1,
+          "name": "到店自提"
+        },
+        {
+          "id": 2,
+          "name": "物流配送"
+        }
+      ],
+      "goodList": [
+        {
+          "goodId": 1,
+          "specId": 2,
+          "goodName": "全新Dior迪奥烈艳蓝金唇膏口红",
+          "specName": "规格名称",
+          "price": 200,
+          "qty": 2,
+          "picUrl": "https://img13.360buyimg.com/babel/s290x370_jfs/t1/163303/19/8612/240967/603f2afdE54fac7e9/6270a3dfba2f1847.jpg!cc_290x370.webp"
+        }
+      ],
+      "discount": {
+        "familyCoin": 50,
+        "integral": 300,
+        "coupon": 2,
+        "card": 4,
+        "paymode": 1,
+        "headDiscount": 22,
+        "privilege": {
+          "availableNum": 2,
+          "privilegeList": [
+            {
+              "id": 1,
+              "name": "有运费折扣",
+              "endTime": "2021-11-04 09:52",
+              "status": 1,
+              "preferentialAmount": 2,
+              "goodDiscount": 0.5
+            },
+            {
+              "id": 2,
+              "name": "无运费折扣",
+              "endTime": "2021-11-05 09:52",
+              "status": 1,
+              "preferentialAmount": 3,
+              "goodDiscount": 0
+            }
+          ]
+        }
+      },
+      "goodType": 7,
+      "paySecond": 30,
+      "maxBalance": 300
+    }
+  },
+  "order.page": {
+    "code": "00000",
+    "data": {
+      "result": [
+        {
+          "createBy": "12ssad",
+          "createTime": "2021-09-02 17:06:00",
+          "updateBy": "sada",
+          "updateTime": "2021-09-02 17:06:00",
+          "id": "123",
+          "groupId": 12,
+          "tenantId": 123,
+          "orgId": 12,
+          "userId": 123,
+          "orderNo": 12312121,
+          "orderAmount": 123,
+          "orderTime": "2021-09-02 17:06:00",
+          "orderStatus": 6,
+          "payStatus": 1,
+          "payType": 1,
+          "payTime": "2021-09-02 17:06:00",
+          "orderDiscount": 123,
+          "expressFee": 123,
+          "orderRealAmount": 123,
+          "orderSource": 1,
+          "isTake": 1,
+          "orderType": 1,
+          "userRemark": "121",
+          "remark": "asa",
+          "orderProfit": 1223,
+          "salesStatus": 0,
+          "familyCoin": 12,
+          "integral": 123,
+          "coupon": 12,
+          "privilegeCard": 12,
+          "addrId": 12,
+          "goodsOnlineList": [
+            {
+              "specId": 1,
+              "picUrl": "12212",
+              "goodName": "121sad",
+              "specName": "asbas",
+              "price": 123,
+              "qty": 12,
+              "goodId": 12121
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "order.pageByAct": {
+    "code": "00000",
+    "msg": "成功",
+    "data": {
+      "pageSize": 10,
+      "offset": 0,
+      "pageNum": 1,
+      "totalPage": 15688,
+      "totalSize": "156874",
+      "result": [
+        {
+          "isEnable": 1,
+          "createBy": "1454276026091515905",
+          "createStr": null,
+          "createTime": "2021-12-08 11:07:38",
+          "updateBy": null,
+          "updateStr": null,
+          "updateTime": null,
+          "startTime": null,
+          "endTime": null,
+          "id": "123742279847378945",
+          "groupId": "123742279293730816",
+          "tenantId": "1438015710178988033",
+          "orgId": "1438016340511617025",
+          "userId": "1454276026091515905",
+          "orderNo": "DD20211208123742279847378944",
+          "orderAmount": 1.0,
+          "orderTime": "2021-12-08 11:07:38",
+          "orderStatus": 1,
+          "payStatus": 1,
+          "payType": 3,
+          "payTime": "2021-12-08 11:07:44",
+          "orderDiscount": 0.0,
+          "expressFee": 0.0,
+          "orderRealAmount": 1.0,
+          "orderSource": 1,
+          "isTake": 2,
+          "orderType": 1,
+          "userRemark": null,
+          "remark": "",
+          "orderProfit": 0.0,
+          "salesStatus": 0,
+          "familyCoin": 0,
+          "integral": 0,
+          "coupon": "",
+          "privilegeCard": "",
+          "addrId": "111765047981637632",
+          "hit": 0,
+          "goodsOnlineList": [
+            {
+              "specId": "0",
+              "picUrl": "http://192.168.112.246:9000/default/1/1638431427362_484.jpg",
+              "goodName": "西施",
+              "price": 1.0,
+              "brandId": "1438023660943593473",
+              "qty": "1",
+              "goodId": "1466313373534003201",
+              "pay_method": 1,
+              "categoryId": "1459341052810268673",
+              "content": "",
+              "skuId": "121638448053354496"
+            }
+          ],
+          "actStatus": 3,
+          "peopleNumber": 3,
+          "remainingNumber": 2,
+          "expireMinute": 10,
+          "returnRule": "1、拼中：得1个番茄；<br />2、未拼中：得1个番茄；<br />3、拼团单结束条件：活动时间结束和拼团单满员结束"
+        },
+        {
+          "isEnable": 1,
+          "createBy": "1454276026091515905",
+          "createStr": null,
+          "createTime": "2021-12-07 17:02:25",
+          "updateBy": null,
+          "updateStr": null,
+          "updateTime": null,
+          "startTime": null,
+          "endTime": null,
+          "id": "123469177481592833",
+          "groupId": "123469176986664960",
+          "tenantId": "1438015710178988033",
+          "orgId": "1438016340511617025",
+          "userId": "1454276026091515905",
+          "orderNo": "DD20211207123469177481592832",
+          "orderAmount": 1.0,
+          "orderTime": "2021-12-07 17:02:25",
+          "orderStatus": 1,
+          "payStatus": 1,
+          "payType": 3,
+          "payTime": "2021-12-07 17:02:31",
+          "orderDiscount": 0.0,
+          "expressFee": 0.0,
+          "orderRealAmount": 1.0,
+          "orderSource": 1,
+          "isTake": 2,
+          "orderType": 1,
+          "userRemark": null,
+          "remark": "",
+          "orderProfit": 0.0,
+          "salesStatus": 0,
+          "familyCoin": 0,
+          "integral": 0,
+          "coupon": "",
+          "privilegeCard": "",
+          "addrId": "111765047981637632",
+          "hit": 0,
+          "goodsOnlineList": [
+            {
+              "specId": "0",
+              "picUrl": "http://192.168.112.246:9000/default/1/1638431427362_484.jpg",
+              "goodName": "西施",
+              "price": 1.0,
+              "brandId": "1438023660943593473",
+              "qty": "1",
+              "goodId": "1466313373534003201",
+              "pay_method": 1,
+              "categoryId": "1459341052810268673",
+              "content": "",
+              "skuId": "121638448053354496"
+            }
+          ],
+          "actStatus": 1,
+          "peopleNumber": 3,
+          "remainingNumber": 2,
+          "expireMinute": 10,
+          "returnRule": "1、拼中：得1个番茄；<br />2、未拼中：得1个番茄；<br />3、拼团单结束条件：活动时间结束和拼团单满员结束"
+        },
+        {
+          "isEnable": 1,
+          "createBy": "1454276026091515905",
+          "createStr": null,
+          "createTime": "2021-12-07 14:42:57",
+          "updateBy": null,
+          "updateStr": null,
+          "updateTime": "2021-12-07 14:53:59",
+          "startTime": null,
+          "endTime": null,
+          "id": "123434077087858689",
+          "groupId": "123434077071081472",
+          "tenantId": "1438015710178988033",
+          "orgId": "1438016340511617025",
+          "userId": "1454276026091515905",
+          "orderNo": "DD20211207123434077087858688",
+          "orderAmount": 1.0,
+          "orderTime": "2021-12-07 14:42:57",
+          "orderStatus": 5,
+          "payStatus": 2,
+          "payType": 3,
+          "payTime": "2021-12-07 14:43:19",
+          "orderDiscount": 0.0,
+          "expressFee": 0.0,
+          "orderRealAmount": 1.0,
+          "orderSource": 1,
+          "isTake": 2,
+          "orderType": 2,
+          "userRemark": null,
+          "remark": "",
+          "orderProfit": 0.0,
+          "salesStatus": 0,
+          "familyCoin": 0,
+          "integral": 0,
+          "coupon": "",
+          "privilegeCard": "",
+          "addrId": "111765047981637632",
+          "hit": 0,
+          "goodsOnlineList": [
+            {
+              "specId": "0",
+              "picUrl": "http://192.168.112.246:9000/default/1/1638431427362_484.jpg",
+              "goodName": "西施",
+              "price": 1.0,
+              "brandId": "1438023660943593473",
+              "qty": "1",
+              "goodId": "1466313373534003201",
+              "pay_method": 1,
+              "categoryId": "1459341052810268673",
+              "content": "",
+              "skuId": "121638448053354496"
+            }
+          ],
+          "actStatus": 3,
+          "peopleNumber": 3,
+          "remainingNumber": 2,
+          "expireMinute": 10,
+          "returnRule": "1、拼中：得1个番茄；<br />2、未拼中：得1个番茄；<br />3、拼团单结束条件：活动时间结束和拼团单满员结束"
+        },
+        {
+          "isEnable": 1,
+          "createBy": "1454276026091515905",
+          "createStr": null,
+          "createTime": "2021-12-06 15:25:48",
+          "updateBy": null,
+          "updateStr": null,
+          "updateTime": null,
+          "startTime": null,
+          "endTime": null,
+          "id": "123082473759309825",
+          "groupId": "123082473742532608",
+          "tenantId": "1438015710178988033",
+          "orgId": "1438016340511617025",
+          "userId": "1454276026091515905",
+          "orderNo": "DD20211206123082473759309824",
+          "orderAmount": 0.01,
+          "orderTime": "2021-12-06 15:25:48",
+          "orderStatus": 5,
+          "payStatus": 0,
+          "payType": 1,
+          "payTime": "2021-12-06 15:35:48",
+          "orderDiscount": 0.0,
+          "expressFee": 0.0,
+          "orderRealAmount": 0.01,
+          "orderSource": 1,
+          "isTake": 2,
+          "orderType": 2,
+          "userRemark": null,
+          "remark": "",
+          "orderProfit": 0.0,
+          "salesStatus": 0,
+          "familyCoin": 0,
+          "integral": 0,
+          "coupon": "",
+          "privilegeCard": "",
+          "addrId": "111765047981637632",
+          "hit": 0,
+          "goodsOnlineList": [
+            {
+              "specId": "0",
+              "picUrl": "http://192.168.112.246:9000/default/1/1638431427362_484.jpg",
+              "goodName": "西施",
+              "price": 1.0,
+              "brandId": "1438023660943593473",
+              "qty": "1",
+              "goodId": "1466313373534003201",
+              "pay_method": 1,
+              "categoryId": "1459341052810268673",
+              "content": "",
+              "skuId": "121638448053354496"
+            }
+          ],
+          "actStatus": 2,
+          "peopleNumber": 3,
+          "remainingNumber": 2,
+          "expireMinute": 10,
+          "returnRule": "1、拼中：得0个番茄；<br />2、未拼中：得0个番茄；<br />3、拼团单结束条件：活动时间结束和拼团单满员结束"
+        },
+        {
+          "isEnable": 1,
+          "createBy": "1454276026091515905",
+          "createStr": null,
+          "createTime": "2021-12-06 15:11:13",
+          "updateBy": null,
+          "updateStr": null,
+          "updateTime": "2021-12-06 16:40:12",
+          "startTime": null,
+          "endTime": null,
+          "id": "123078804775108609",
+          "groupId": "123078804741554176",
+          "tenantId": "1438015710178988033",
+          "orgId": "1438016340511617025",
+          "userId": "1454276026091515905",
+          "orderNo": "DD20211206123078804775108608",
+          "orderAmount": 0.01,
+          "orderTime": "2021-12-06 15:11:13",
+          "orderStatus": 5,
+          "payStatus": 2,
+          "payType": 3,
+          "payTime": "2021-12-06 16:38:00",
+          "orderDiscount": 0.0,
+          "expressFee": 0.0,
+          "orderRealAmount": 0.01,
+          "orderSource": 1,
+          "isTake": 2,
+          "orderType": 2,
+          "userRemark": null,
+          "remark": "",
+          "orderProfit": 0.0,
+          "salesStatus": 0,
+          "familyCoin": 0,
+          "integral": 0,
+          "coupon": "",
+          "privilegeCard": "",
+          "addrId": "111765047981637632",
+          "hit": 0,
+          "goodsOnlineList": [
+            {
+              "specId": "0",
+              "picUrl": "http://192.168.112.246:9000/default/1/1638431427362_484.jpg",
+              "goodName": "西施",
+              "price": 1.0,
+              "brandId": "1438023660943593473",
+              "qty": "1",
+              "goodId": "1466313373534003201",
+              "pay_method": 1,
+              "categoryId": "1459341052810268673",
+              "content": "",
+              "skuId": "121638448053354496"
+            }
+          ],
+          "actStatus": 1,
+          "peopleNumber": 3,
+          "remainingNumber": 2,
+          "expireMinute": 10,
+          "returnRule": "1、拼中：得0个番茄；<br />2、未拼中：得0个番茄；<br />3、拼团单结束条件：活动时间结束和拼团单满员结束"
+        }
+      ]
+    }
+  },
+  "sys.checked": {
+    "code": "00000",
+    "data": {
+      "status": 1,
+      "expdate": "",
+      "store": {
+        "storeName": "安第斯",
+        "companyName": "安第斯",
+        "icon": "",
+        "address": "",
+        "tel": "",
+        "wechat": "",
+        "ratio": {
+          "gkey": 100,
+          "gvalue": 1
+        }
+      }
+    }
+  },
+  "order.unifiedOrder": {
+    "code": "00000",
+    "data": {
+      "orderNo": 1212,
+      "orderType": 1
+    }
+  },
+  "user.login": {
+    "code": "00000",
+    "data": {
+      "token": "a47e9afa-5a54-4bd8-844a-d1cc7a23107a",
+      "user": {
+        "id": 3,
+        "name": "张三",
+        "phone": "12365478999",
+        "photoUrl": "https://img13.360buyimg.com/babel/s290x370_jfs/t1/163303/19/8612/240967/603f2afdE54fac7e9/6270a3dfba2f1847.jpg!cc_290x370.webp",
+        "sex": 1,
+        "memberLevel": 1,
+        "growth": 300,
+        "integral": 600,
+        "familyCoin": 50,
+        "availableAmount": 3000,
+        "frozenAmount": 50,
+        "openid": "o_WzJ5ZUM0kBReH2hPTqyy4H0K7A",
+        "unionid": "3e655f1c-a1e1-433e-a1cb-53d2cba13e09"
+      }
+    }
+  },
+  "user.getopenid": {
+    "code": "00000",
+    "data": {
+      "openid": "35161661",
+      "session_key": "5sa;fjkasdfas"
+    }
+  },
+  "wxpay.unifiedOrder": {
+    "code": "00000",
+    "data": {
+      "appId": 315155161,
+      "timeStamp": "51325125152",
+      "nonceStr": "sakjdaskjdkasdkas",
+      "packageValue": 5315121,
+      "package": "saldfjsdklflsd",
+      "signType": "lsdkjfklsdflsd",
+      "paySign": "ldjsdlkfjklsdfkl"
+    }
+  },
+  "person.information": {
+    "code": "00000",
+    "data": {
+      "pendingPayment": 12,
+      "tobeShipped": 10,
+      "goodsTobeReceived": 160,
+      "completed": 30,
+      "afterSale": 5,
+      "closed": 30,
+      "cancelled": 10,
+      "groupSales": 3,
+      "group": 10,
+      "freeOrder": 60,
+      "totalReturn": 30
+    }
+  },
+  "collect.list": {
+    "code": "00000",
+    "data": {
+      "result": [
+        {
+          "id": 1,
+          "name": "abc",
+          "picUrl": "https://img13.360buyimg.com/babel/s290x370_jfs/t1/163303/19/8612/240967/603f2afdE54fac7e9/6270a3dfba2f1847.jpg!cc_290x370.webp",
+          "sellCount": 20,
+          "isNew": 1,
+          "price": 300,
+          "linePrice": 200,
+          "groupCount": 3,
+          "joinGroup": 1,
+          "newShelf": 2,
+          "type": 2,
+          "integralGoods": 0,
+          "integralObj": null,
+          "actId": 20
+        },
+        {
+          "id": 2,
+          "name": "abc",
+          "picUrl": "https://img13.360buyimg.com/babel/s290x370_jfs/t1/163303/19/8612/240967/603f2afdE54fac7e9/6270a3dfba2f1847.jpg!cc_290x370.webp",
+          "sellCount": 20,
+          "isNew": 1,
+          "price": 300,
+          "linePrice": 200,
+          "groupCount": 3,
+          "joinGroup": 1,
+          "newShelf": 2,
+          "type": 2,
+          "integralGoods": 0,
+          "integralObj": null,
+          "actId": 20
+        }
+      ]
+    }
+  },
+  "collect.save": {
+    "code": "00000",
+    "data": []
+  },
+  "member.operDetail": {
+    "code": "00000",
+    "data": {
+      "balance": 123,
+      "childrenList": [
+        {
+          "date": "2021-09-02 17:06:00",
+          "list": [
+            {
+              "createTime": "2021-09-02 17:06:00",
+              "operValue": 20,
+              "id": 1,
+              "operName": "123"
+            },
+            {
+              "createTime": "2021-09-02 17:06:00",
+              "operValue": 20,
+              "id": 1,
+              "operName": "123"
+            }
+          ]
+        },
+        {
+          "date": "2021-09-02 17:06:00",
+          "list": [
+            {
+              "createTime": "2021-09-02 17:06:00",
+              "operValue": 20,
+              "id": 1,
+              "operName": "123"
+            },
+            {
+              "createTime": "2021-09-02 17:06:00",
+              "operValue": 20,
+              "id": 1,
+              "operName": "123"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "memberCoupon.page": {
+    "code": "00000",
+    "data": {
+      "pageSize": 1,
+      "result": [
+        {
+          "id": 1,
+          "tenantId": "1233",
+          "orgId": "1",
+          "name": "优惠券名称",
+          "code": "sdf;dsklfsd",
+          "couponType": 1,
+          "channel": 1,
+          "discount": 2,
+          "validityType": 1,
+          "expStartTime": "2021-09-02 17:06:00",
+          "expEndTime": "2021-09-02 17:06:00",
+          "takeDay": 1,
+          "effectDay": 2,
+          "applyGood": 1,
+          "useSill": 0,
+          "limitType": 1,
+          "limitValue": 20,
+          "maxUse": 2,
+          "overlayCoupon": 1,
+          "overlayActivity": 1,
+          "disabledDate": "1,2",
+          "status": 1,
+          "memberCouponId": "",
+          "useStatus": 1,
+          "coupon": "",
+          "memberId": "12333"
+        },
+        {
+          "id": 1,
+          "tenantId": "1233",
+          "orgId": "1",
+          "name": "优惠券名称",
+          "code": "sdf;dsklfsd",
+          "couponType": 1,
+          "channel": 1,
+          "discount": 200,
+          "validityType": 1,
+          "expStartTime": "2021-09-02 17:06:00",
+          "expEndTime": "2021-09-02 17:06:00",
+          "takeDay": 1,
+          "effectDay": 2,
+          "applyGood": 1,
+          "useSill": 0,
+          "limitType": 1,
+          "limitValue": 20,
+          "maxUse": 2,
+          "overlayCoupon": 1,
+          "overlayActivity": 1,
+          "disabledDate": "1,2",
+          "status": 1,
+          "memberCouponId": "",
+          "useStatus": 0,
+          "coupon": "",
+          "memberId": "12333"
+        },
+        {
+          "id": 1,
+          "tenantId": "1233",
+          "orgId": "1",
+          "name": "优惠券名称",
+          "code": "sdf;dsklfsd",
+          "couponType": 1,
+          "channel": 1,
+          "discount": 2,
+          "validityType": 1,
+          "expStartTime": "2021-09-02 17:06:00",
+          "expEndTime": "2021-09-02 17:06:00",
+          "takeDay": 1,
+          "effectDay": 2,
+          "applyGood": 1,
+          "useSill": 0,
+          "limitType": 1,
+          "limitValue": 20,
+          "maxUse": 2,
+          "overlayCoupon": 1,
+          "overlayActivity": 1,
+          "disabledDate": "1,2",
+          "status": 1,
+          "memberCouponId": "",
+          "useStatus": -1,
+          "coupon": "",
+          "memberId": "12333"
+        }
+      ]
+    }
+  },
+  "activeity.getRechargeRewards": {
+    "code": "00000",
+    "data": [
+      {
+        "recharge_id": 12,
+        "recharge_amount": 200,
+        "act_name": "活动",
+        "coupon_ids": "1,2",
+        "integral": 100,
+        "un_limit_amount": 10,
+        "start_time": "2021-09-02 17:06:00",
+        "end_time": "2021-09-02 17:06:00"
+      },
+      {
+        "recharge_id": 12,
+        "recharge_amount": 300,
+        "act_name": "活动",
+        "coupon_ids": "1,2",
+        "integral": 100,
+        "un_limit_amount": 10,
+        "start_time": "2021-09-02 17:06:00",
+        "end_time": "2021-09-02 17:06:00"
+      },
+      {
+        "recharge_id": 12,
+        "recharge_amount": 400,
+        "act_name": "活动",
+        "coupon_ids": "1,2",
+        "integral": 100,
+        "un_limit_amount": 10,
+        "start_time": "2021-09-02 17:06:00",
+        "end_time": "2021-09-02 17:06:00"
+      },
+      {
+        "recharge_id": 12,
+        "recharge_amount": 500,
+        "act_name": "活动",
+        "coupon_ids": "1,2",
+        "integral": 100,
+        "un_limit_amount": 10,
+        "start_time": "2021-09-02 17:06:00",
+        "end_time": "2021-09-02 17:06:00"
+      },
+      {
+        "recharge_id": 12,
+        "recharge_amount": 600,
+        "act_name": "活动",
+        "coupon_ids": "1,2",
+        "integral": 100,
+        "un_limit_amount": 10,
+        "start_time": "2021-09-02 17:06:00",
+        "end_time": "2021-09-02 17:06:00"
+      }
+    ]
+  },
+  "memberPrivilege.purchaseDetails": {
+    "code": "00000",
+    "data": [
+      {
+        "createTime": "2021-10-21 06:08:07",
+        "expDay": 30,
+        "id": "1",
+        "orderAmount": 100
+      },
+      {
+        "createTime": "2021-10-22 06:08:07",
+        "expDay": 90,
+        "id": "2",
+        "orderAmount": 90
+      },
+      {
+        "createTime": "2021-10-22 06:08:07",
+        "expDay": 180,
+        "id": "3",
+        "orderAmount": 180
+      },
+      {
+        "createTime": "2021-10-25 06:08:07",
+        "expDay": 365,
+        "id": "4",
+        "orderAmount": 365
+      }
+    ]
+  },
+  "takeGoods.list": {
+    "code": "00000",
+    "data": [
+      {
+        "address": "北城区23号",
+        "areaId": 110119,
+        "cityId": 1101,
+        "createBy": "1454262309870186498",
+        "createStr": null,
+        "createTime": "2021-10-30 13:58:57",
+        "endTime": null,
+        "id": "109652265593208832",
+        "isDefault": 1,
+        "isEnable": 1,
+        "orderNum": null,
+        "phone": "18022002671",
+        "provinceId": 11,
+        "receiver": "阮丽君",
+        "startTime": null,
+        "updateBy": "1454262309870186498",
+        "updateStr": null,
+        "updateTime": "2021-11-02 10:16:22",
+        "userId": "1454262309870186498"
+      }
+    ]
+  },
+  "takeGoods.freightCalculation": {
+    "code": "00000",
+    "data": {
+      "freight": 20
+    }
+  },
+  "secKill.stockRelease": {
+    "code": "00000",
+    "data": {}
+  }
+}
